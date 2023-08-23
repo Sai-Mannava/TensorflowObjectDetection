@@ -1,2 +1,4 @@
 # Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage a custom object detection model using the Tensorflow Object Detection API. 
+<p> I learned how to use Tensorflow Object Detection using Model Zoo and tested it using hand symbols.
+<a>The setup and Installation process was guided to me by Nicohals Renotte</a>
+
